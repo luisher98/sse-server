@@ -1,0 +1,16 @@
+{
+  "name": "sse-server",
+  "version": "1.0.0",
+  "description": "testing sse node server",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "type": "module",
+  "author": "Luis Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
